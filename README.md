@@ -5,20 +5,25 @@
 
 
 ##访问课程ftp
-1. 打开“我的电脑”，在地址栏输入软件学院ftp地址。
+1.打开“我的电脑”，在地址栏输入软件学院ftp地址。
 
 > ftp://10.132.141.33
 
 ![address](https://cloud.githubusercontent.com/assets/9759891/18254814/4f15a89a-73d4-11e6-8b12-757da48e1f6c.png)
 
-1. 在弹出的对话框中输入用户名和密码。
+2. 在弹出的对话框中输入用户名和密码。
 
 >用户名：ss  
 >密码：ss
 
 ![login](https://cloud.githubusercontent.com/assets/9759891/18254756/b3930f0c-73d3-11e6-8ef0-aa95857e54ec.png)
 
-1. 依次进入：class -> 16 -> 161 程序设计（戴开宇），即可进入课程目录。
+3. 依次进入：class -> 16 -> 161 程序设计（戴开宇），即可进入课程目录。
+
+##下载并安装Chrome浏览器
+1. 在课程目录的material文件夹下复制![chrome_package](https://cloud.githubusercontent.com/assets/9759891/18254827/75e3206a-73d4-11e6-859c-5d90e1b539ff.png)安装包到本地
+2. 解压文件，并运行
+3. 安装成功
 
 ## GitHub
 
