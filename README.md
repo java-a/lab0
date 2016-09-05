@@ -1,7 +1,7 @@
 # lab0
 熟悉课程相关的网站，并完成软件安装与注册。
 
-[TOC]
+
 
 
 ##访问课程ftp
@@ -11,14 +11,14 @@
 
 ![](https://github.com/java-a/lab0/blob/master/raw/address.png)
 
-2. 在弹出的对话框中输入用户名和密码。
+1. 在弹出的对话框中输入用户名和密码。
 
 >用户名：ss  
 >密码：ss
 
 ![](https://github.com/java-a/lab0/blob/master/raw/login.png)
 
-3. 依次进入：class -> 16 -> 161 程序设计（戴开宇），即可进入课程目录。
+1. 依次进入：class -> 16 -> 161 程序设计（戴开宇），即可进入课程目录。
 
 ## GitHub
 
@@ -54,4 +54,56 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 2. 前往课程主页：https://github.com/java-a。
 
 
-3. 熟悉[如何在讨论区中发布新的帖子？](https://github.com/java-a/syllabus/issues/1)及[如何回复一个帖子？](https://github.com/java-a/syllabus/issues/2)。
+1. 熟悉[如何在讨论区中发布新的帖子？](https://github.com/java-a/syllabus/issues/1)及[如何回复一个帖子？](https://github.com/java-a/syllabus/issues/2)。
+
+
+
+## 开发工具
+
+对编程人员来说，使用稳定、强大、方便的开发工具可以有效提升编程的效率和正确性。在本课程中，我们一开始使用简洁明了的文本编辑器Atom。当大家熟悉Java编程后，我们将使用IntelliJ IDEA，一个专业的集成开发环境(IDE, Integrated Development Environment) 。
+
+### Atom
+
+Atom是一个简洁易用的现代文本编辑器，具有很强的可扩展功能。
+
+相比IntelliJ IDEA，Atom缺少了很多开发功能的支持，比如代码自动补全、语法报错、断点调试等。但是Atom适用于几乎所有的编程语言，无论是Java， C，C++，还是Python，JavaScript，Ruby等编程语言，都可以很方便地使用Atom进行编程。同时，Atom拥有强大的社区插件(Plugin)支持，能为Atom附加各种不同的功能。拥有各种插件支持的Atom有时甚至比集成开发环境(IDE)更加好用。
+
+#### 安装Atom：
+
+1. 在资源管理器中打开：
+
+   [ftp://10.132.141.33/classes/16/161%20%B3%CC%D0%F2%C9%E8%BC%C6A%20%A3%A8%B4%F7%BF%AA%D3%EE%A3%A9/Materials/](ftp://10.132.141.33/classes/16/161%20%B3%CC%D0%F2%C9%E8%BC%C6A%20%A3%A8%B4%F7%BF%AA%D3%EE%A3%A9/Materials/)
+
+   用户名：ss，密码：ss。
+
+2. 复制atom-windows.zip到电脑桌面。
+
+3. 右键atom-windows.zip，解压至当前目录。
+
+4. 打开解压后的文件夹Atom，打开文件夹内的atom.exe启动atom。
+
+5. 完成，如图：
+
+   ![Alt text](https://cloud.githubusercontent.com/assets/6532225/18254055/7a525a74-73cc-11e6-92ff-9162da69ff38.png)
+
+
+
+在下个Lab中，我们将学习如何使用Atom编辑Java程序，并运行第一个程序"Hello world!"。
+
+Atom官方地址：https://atom.io/
+
+### IntelliJ IDEA
+
+IntelliJ IDEA是目前最先进的Java集成开发环境，提供了非常强大的开发功能支持，可以大幅提升代码开发效率，并更好地进行项目管理和维护。关于如何安装使用IntelliJ，我们会在大约一个月后学习。
+
+IntelliJ IDEA将会是大家大学四年的主力开发工具，大部分的代码都会使用IntelliJ开发。
+
+除了本课程外，同学们还将在这些课程中使用IntelliJ的开发：
+
+- 大一下学期的`Web应用基础`
+- 大二上学期的`算法与数据结构`
+- 大三的`计算机图形学`，`高级Web`
+- 选修课，如`智能移动平台应用开发`等
+
+IntelliJ IDEA官方地址：https://www.jetbrains.com/idea/
+
