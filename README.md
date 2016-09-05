@@ -9,14 +9,14 @@
 
 > ftp://10.132.141.33
 
-![](https://github.com/java-a/lab0/blob/master/raw/address.png)
+![address](https://cloud.githubusercontent.com/assets/9759891/18254814/4f15a89a-73d4-11e6-8b12-757da48e1f6c.png)
 
 1. 在弹出的对话框中输入用户名和密码。
 
 >用户名：ss  
 >密码：ss
 
-![](https://github.com/java-a/lab0/blob/master/raw/login.png)
+![login](https://cloud.githubusercontent.com/assets/9759891/18254756/b3930f0c-73d3-11e6-8ef0-aa95857e54ec.png)
 
 1. 依次进入：class -> 16 -> 161 程序设计（戴开宇），即可进入课程目录。
 
